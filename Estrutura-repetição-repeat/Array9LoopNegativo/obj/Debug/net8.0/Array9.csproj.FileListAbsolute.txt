@@ -1,0 +1,14 @@
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array9\obj\Debug\net8.0\Array9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array9\obj\Debug\net8.0\Array9.AssemblyInfoInputs.cache
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array9\obj\Debug\net8.0\Array9.AssemblyInfo.cs
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array9\obj\Debug\net8.0\Array9.csproj.CoreCompileInputs.cache
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array9\bin\Debug\net8.0\Array9.exe
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array9\bin\Debug\net8.0\Array9.deps.json
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array9\bin\Debug\net8.0\Array9.runtimeconfig.json
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array9\bin\Debug\net8.0\Array9.dll
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array9\bin\Debug\net8.0\Array9.pdb
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array9\obj\Debug\net8.0\Array9.dll
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array9\obj\Debug\net8.0\refint\Array9.dll
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array9\obj\Debug\net8.0\Array9.pdb
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array9\obj\Debug\net8.0\Array9.genruntimeconfig.cache
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array9\obj\Debug\net8.0\ref\Array9.dll

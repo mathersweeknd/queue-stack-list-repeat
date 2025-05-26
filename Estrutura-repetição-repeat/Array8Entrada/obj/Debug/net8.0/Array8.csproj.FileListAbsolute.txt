@@ -1,0 +1,14 @@
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array8\obj\Debug\net8.0\Array8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array8\obj\Debug\net8.0\Array8.AssemblyInfoInputs.cache
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array8\obj\Debug\net8.0\Array8.AssemblyInfo.cs
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array8\obj\Debug\net8.0\Array8.csproj.CoreCompileInputs.cache
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array8\bin\Debug\net8.0\Array8.exe
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array8\bin\Debug\net8.0\Array8.deps.json
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array8\bin\Debug\net8.0\Array8.runtimeconfig.json
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array8\bin\Debug\net8.0\Array8.dll
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array8\bin\Debug\net8.0\Array8.pdb
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array8\obj\Debug\net8.0\Array8.dll
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array8\obj\Debug\net8.0\refint\Array8.dll
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array8\obj\Debug\net8.0\Array8.pdb
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array8\obj\Debug\net8.0\Array8.genruntimeconfig.cache
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array8\obj\Debug\net8.0\ref\Array8.dll
