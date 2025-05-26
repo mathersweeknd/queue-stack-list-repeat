@@ -1,0 +1,14 @@
+C:\Users\SE68084\Desktop\Matheus Fernandes\C#\VSCode\Array7\obj\Debug\net8.0\Array7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SE68084\Desktop\Matheus Fernandes\C#\VSCode\Array7\obj\Debug\net8.0\Array7.AssemblyInfoInputs.cache
+C:\Users\SE68084\Desktop\Matheus Fernandes\C#\VSCode\Array7\obj\Debug\net8.0\Array7.AssemblyInfo.cs
+C:\Users\SE68084\Desktop\Matheus Fernandes\C#\VSCode\Array7\obj\Debug\net8.0\Array7.csproj.CoreCompileInputs.cache
+C:\Users\SE68084\Desktop\Matheus Fernandes\C#\VSCode\Array7\bin\Debug\net8.0\Array7.exe
+C:\Users\SE68084\Desktop\Matheus Fernandes\C#\VSCode\Array7\bin\Debug\net8.0\Array7.deps.json
+C:\Users\SE68084\Desktop\Matheus Fernandes\C#\VSCode\Array7\bin\Debug\net8.0\Array7.runtimeconfig.json
+C:\Users\SE68084\Desktop\Matheus Fernandes\C#\VSCode\Array7\bin\Debug\net8.0\Array7.dll
+C:\Users\SE68084\Desktop\Matheus Fernandes\C#\VSCode\Array7\bin\Debug\net8.0\Array7.pdb
+C:\Users\SE68084\Desktop\Matheus Fernandes\C#\VSCode\Array7\obj\Debug\net8.0\Array7.dll
+C:\Users\SE68084\Desktop\Matheus Fernandes\C#\VSCode\Array7\obj\Debug\net8.0\refint\Array7.dll
+C:\Users\SE68084\Desktop\Matheus Fernandes\C#\VSCode\Array7\obj\Debug\net8.0\Array7.pdb
+C:\Users\SE68084\Desktop\Matheus Fernandes\C#\VSCode\Array7\obj\Debug\net8.0\Array7.genruntimeconfig.cache
+C:\Users\SE68084\Desktop\Matheus Fernandes\C#\VSCode\Array7\obj\Debug\net8.0\ref\Array7.dll
