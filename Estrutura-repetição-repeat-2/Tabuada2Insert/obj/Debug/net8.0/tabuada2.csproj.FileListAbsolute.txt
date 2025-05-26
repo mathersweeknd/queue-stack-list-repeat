@@ -1,0 +1,14 @@
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array2\tabuada2\obj\Debug\net8.0\tabuada2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array2\tabuada2\obj\Debug\net8.0\tabuada2.AssemblyInfoInputs.cache
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array2\tabuada2\obj\Debug\net8.0\tabuada2.AssemblyInfo.cs
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array2\tabuada2\obj\Debug\net8.0\tabuada2.csproj.CoreCompileInputs.cache
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array2\tabuada2\bin\Debug\net8.0\tabuada2.exe
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array2\tabuada2\bin\Debug\net8.0\tabuada2.deps.json
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array2\tabuada2\bin\Debug\net8.0\tabuada2.runtimeconfig.json
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array2\tabuada2\bin\Debug\net8.0\tabuada2.dll
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array2\tabuada2\bin\Debug\net8.0\tabuada2.pdb
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array2\tabuada2\obj\Debug\net8.0\tabuada2.dll
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array2\tabuada2\obj\Debug\net8.0\refint\tabuada2.dll
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array2\tabuada2\obj\Debug\net8.0\tabuada2.pdb
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array2\tabuada2\obj\Debug\net8.0\tabuada2.genruntimeconfig.cache
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array2\tabuada2\obj\Debug\net8.0\ref\tabuada2.dll
