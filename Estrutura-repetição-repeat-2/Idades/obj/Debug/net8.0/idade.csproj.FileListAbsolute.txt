@@ -1,0 +1,14 @@
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array2\idade\obj\Debug\net8.0\idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array2\idade\obj\Debug\net8.0\idade.AssemblyInfoInputs.cache
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array2\idade\obj\Debug\net8.0\idade.AssemblyInfo.cs
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array2\idade\obj\Debug\net8.0\idade.csproj.CoreCompileInputs.cache
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array2\idade\bin\Debug\net8.0\idade.exe
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array2\idade\bin\Debug\net8.0\idade.deps.json
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array2\idade\bin\Debug\net8.0\idade.runtimeconfig.json
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array2\idade\bin\Debug\net8.0\idade.dll
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array2\idade\bin\Debug\net8.0\idade.pdb
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array2\idade\obj\Debug\net8.0\idade.dll
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array2\idade\obj\Debug\net8.0\refint\idade.dll
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array2\idade\obj\Debug\net8.0\idade.pdb
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array2\idade\obj\Debug\net8.0\idade.genruntimeconfig.cache
+C:\Users\SE68084\Desktop\Matheus Fernandes\.Net C#\VSCode\Array2\idade\obj\Debug\net8.0\ref\idade.dll
